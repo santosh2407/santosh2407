@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I'm looking forward to expand my knowledge in VLSI domain & Robotics as well and busy up myself to provide my services to any MNC as a Hardware Enngineer.
 ### Find me around the web 🌍
 -  Writing in public on [Blogger](https://esukapallisantosh.blogspot.com/) ✍️
+-  Check out my articles on [Medium]([url](https://medium.com/@santosh2407) ✍️
 -  Sharing updates on [LinkedIn](https://www.linkedin.com/in/e-santosh-kumar-89568720a/)👨‍💻
 - Take a look at my [Professional Portfolio](https://santosh-portfolio.dorik.io/)🧑‍🎓
