@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🧑‍🎓 I'm persuing my undergrad in the branch of Electronics and Communication Engineering with specilisation in VLSI at K L University.
-- 🔭 I'm much passionated towards electronics which makes me to explore various kind of hardwares and develop relevent projects.
-- 💬 As a hobby I write blogs as well which are related to both technology and literature. 
-- 🌱 I'm looking forward to expand my knowledge in VLSI domain & Robotics as well and busy up myself to provide my services to any MNC as a Hardware Engineer.
+- 🧑‍🎓 I'm pursuing my bachelor's at K L University in the department of Electronics and Communication Engineering with a specialization on VLSI.
+- 🔭 I have a strong passion in electronics, which motivates me to explore different types of technology and create significant projects.
+- 💬 I also write blogs as a pastime that have both tech and literary overtones.
+- 🌱 A solution-oriented candidate seeking to secure a responsible career opportunity, where I can utalize my experience and management skills while adding value to the company and continue the learning journey. 
 ### Find me around the web 🌍
 -  Writing in public on [Blogger](https://esukapallisantosh.blogspot.com/) ✍️
 -  Check out my articles on [Medium](https://medium.com/@santosh2407) ✍️
