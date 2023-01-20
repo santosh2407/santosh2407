@@ -9,16 +9,22 @@
 
 - 📫 How to reach me **santosh.achary0706@gmail.com**
 
-### Blogs posts
+<!--### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me around web:</h3>
 <p align="left">
-<a href="https://twitter.com/santosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santosh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/e santosh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="e santosh kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/santoshesukapalli_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santoshesukapalli_" height="30" width="40" /></a>
+<!--LinkedIn-->
+<a href="https://www.linkedin.com/in/esantoshkumar-89568720a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="e santosh kumar" height="30" width="40" /></a>
+<!--Blogger-->
+<a href="https://esukapallisantosh.blogspot.com/" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/cWG9-bk2_zLdKsN9vsYEdbCReVfzgXU6FeHUmLI8a24FoZ05TpOLYXInCQ278FTwCw=w480-h960-rw" alt="e santosh kumar" height="30" width="40" /></a>
+<!--Medium-->
 <a href="https://medium.com/@santosh2407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@santosh2407" height="30" width="40" /></a>
+<!--Twitter-->
+<a href="https://twitter.com/SantoshE12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santosh" height="30" width="40" /></a>
+<!--Instagram-->
+<a href="https://www.instagram.com/santoshesukapalli_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santoshesukapalli_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
