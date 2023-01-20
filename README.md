@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh2407&label=Profile%20views&color=0e75b6&style=flat" alt="santosh2407" /> </p>
 
+<h3 align="left">About Me:</h3>
 - 🧑‍🎓 I'm pursuing my bachelor's at K L University in the department of Electronics and Communication Engineering with a specialization on VLSI.
 - 🔭 I have a strong passion in electronics, which motivates me to explore different types of technology and create significant projects.
 - 📝 I also write blogs as a pastime that have both [tech](https://medium.com/@santosh2407) and [literary](https://esukapallisantosh.blogspot.com/) overtones.
