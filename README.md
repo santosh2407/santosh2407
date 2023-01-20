@@ -9,7 +9,7 @@
 - 📝 I also write blogs as a pastime that have both [tech](https://medium.com/@santosh2407) and [literary](https://esukapallisantosh.blogspot.com/) overtones.
 - 🌱 A solution-oriented candidate seeking to secure a responsible career opportunity, where I can utalize my theoretical knowledge and technical skills while adding value to the company and continue the learning journey. 
 
-- 👨‍💻 Take a look at my [Professional Portfolio.](santosh-portfolio.dorik.io)
+- 👨‍💻 Take a look at my [Professional Portfolio.](https://santosh-portfolio.dorik.io/)
 - 📫 Reach me through **santosh.achary0706@gmail.com**.
 
 <!--### Blogs posts -->
