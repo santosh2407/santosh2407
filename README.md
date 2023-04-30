@@ -8,7 +8,7 @@
 - 🧑‍🎓 I'm pursuing my bachelor's at K L University in the department of Electronics and Communication Engineering with a specialization on VLSI.
 - 🔭 I have a strong passion in electronics, which motivates me to explore different types of technology and create significant projects.
 - 📝 I also write blogs as a pastime that have both [tech](https://medium.com/@santosh2407) and [literary](https://esukapallisantosh.blogspot.com/) overtones.
-- 🌱 A solution-oriented candidate seeking to secure a responsible career opportunity, where I can utalize my theoretical knowledge and technical skills while adding value to the company and continue the learning journey. 
+- 🌱 A solution-oriented candidate seeking to secure a responsible career opportunity, where I can utilize my theoretical knowledge and technical skills while adding value to the company and continue the learning journey. 
 
 - 👨‍💻 Take a look at my [Professional Portfolio.](https://santosh-portfolio.dorik.io/)
 - 📫 Reach me through **santosh.achary0706@gmail.com**.
