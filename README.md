@@ -1,14 +1,4 @@
-![Logo]()
-<!DOCTYPE html>
-<html>
-<body>
-
-<img src="MYGIF.gif" alt="Computer man" style="width:100px;height:50px;">
-
-</body>
-</html>
-
-
+![Logo](https://github.com/santosh2407/santosh2407/assets/99958597/f33a7d9f-a3a1-44ad-97e5-8c4718ede288)
 
 
 
