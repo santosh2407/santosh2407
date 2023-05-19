@@ -1,5 +1,12 @@
 ![Logo]()
+<!DOCTYPE html>
+<html>
+<body>
 
+<img src="MYGIF.gif" alt="Computer man" style="width:100px;height:50px;">
+
+</body>
+</html>
 
 
 
