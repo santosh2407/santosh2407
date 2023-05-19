@@ -1,4 +1,5 @@
-![Logo](https://github.com/santosh2407/santosh2407/assets/99958597/c4c841d6-972b-4b70-94f1-24031c64aa3c)
+![Logo]()
+
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
 <h3 align="center">An Electronics Aficionado</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh2407&label=Profile%20views&color=0e75b6&style=flat" alt="santosh2407" /> </p>
