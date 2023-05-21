@@ -1,5 +1,5 @@
 <!-- ![Logo](https://github.com/santosh2407/santosh2407/assets/99958597/f33a7d9f-a3a1-44ad-97e5-8c4718ede288) -->
-![Logo](https://github.com/santosh2407/santosh2407/assets/99958597/5eada0c9-4027-4c7b-a696-ca08096f34cd)
+  ![Logo](https://github.com/santosh2407/santosh2407/assets/99958597/5eada0c9-4027-4c7b-a696-ca08096f34cd)
 
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
 <h3 align="center">An Electronics Aficionado</h3>
