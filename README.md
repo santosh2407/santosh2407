@@ -22,15 +22,15 @@
 <h3 align="left">Find me around web🌍:</h3>
 <p align="left">
 <!--LinkedIn-->
-<a href="https://www.linkedin.com/in/esantoshkumar-89568720a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="e santosh kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/esantoshkumar-89568720a/" target="blank"><img align="center" src="https://github.com/santosh2407/santosh2407/assets/99958597/9e851373-d8cf-4103-8047-eb66e5372f2c" alt="e santosh kumar" height="30" width="40" /></a>
 <!--Blogger-->
 <a href="https://esukapallisantosh.blogspot.com/" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/cWG9-bk2_zLdKsN9vsYEdbCReVfzgXU6FeHUmLI8a24FoZ05TpOLYXInCQ278FTwCw=w480-h960-rw" alt="e santosh kumar" height="30" width="40" /></a>
 <!--Medium-->
-<a href="https://medium.com/@santosh2407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@santosh2407" height="30" width="40" /></a>
+<a href="https://medium.com/@santosh2407" target="blank"><img align="center" src="https://github.com/santosh2407/santosh2407/assets/99958597/5be42e5f-1b6f-4d28-bbb2-116ce56ee550" alt="@santosh2407" height="30" width="40" /></a>
 <!--Twitter-->
-<a href="https://twitter.com/SantoshE12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santosh" height="30" width="40" /></a>
+<a href="https://twitter.com/SantoshE12" target="blank"><img align="center" src="https://github.com/santosh2407/santosh2407/assets/99958597/29a24685-3feb-44e6-95e9-ac7ed195d890" alt="santosh" height="30" width="40" /></a>
 <!--Instagram-->
-<a href="https://www.instagram.com/santoshesukapalli_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santoshesukapalli_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/santoshesukapalli_/" target="blank"><img align="center" src="https://github.com/santosh2407/santosh2407/assets/99958597/f0b95843-5038-4328-acef-49c6bf1fb36c" alt="santoshesukapalli_" height="30" width="40" /></a>
 </p>
 
 
