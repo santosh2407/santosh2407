@@ -22,7 +22,7 @@
 <h3 align="left">Find me around web🌍:</h3>
 <p align="left">
 <!--LinkedIn-->
-<a href="https://www.linkedin.com/in/esantoshkumar-89568720a/" target="blank"><img align="center" src="https://github.com/santosh2407/santosh2407/assets/99958597/9e851373-d8cf-4103-8047-eb66e5372f2c" alt="e santosh kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/esantoshkumar-89568720a/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)" alt="e santosh kumar" height="30" width="40" /></a>
 <!--Blogger-->
 <a href="https://esukapallisantosh.blogspot.com/" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/cWG9-bk2_zLdKsN9vsYEdbCReVfzgXU6FeHUmLI8a24FoZ05TpOLYXInCQ278FTwCw=w480-h960-rw" alt="e santosh kumar" height="30" width="40" /></a>
 <!--Medium-->
