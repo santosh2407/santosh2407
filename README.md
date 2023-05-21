@@ -1,6 +1,9 @@
-![Logo](https://github.com/santosh2407/santosh2407/assets/99958597/f33a7d9f-a3a1-44ad-97e5-8c4718ede288)
+<!-- ![Logo](https://github.com/santosh2407/santosh2407/assets/99958597/f33a7d9f-a3a1-44ad-97e5-8c4718ede288) -->
+![Logo](https://github.com/santosh2407/santosh2407/assets/99958597/5eada0c9-4027-4c7b-a696-ca08096f34cd)
 
-
+<p align="left">
+  <img src="https://github.com/santosh2407/santosh2407/blob/main/Blue_White_Modern_Creative_Solution_LinkedIn_Article_Image_Cover_AdobeExpress.gif" width="300" alt="GIF Description">
+</p>
 
 
 
